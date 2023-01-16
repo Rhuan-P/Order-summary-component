@@ -30,6 +30,7 @@ main {
   background-color: white;
   align-items: center;
   gap: 25rem;
+  box-shadow: 0 20px 20px 2.5px hsla(245, 250%, 20%, 0.250);
 }
 
 img {
