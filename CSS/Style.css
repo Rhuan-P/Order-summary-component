@@ -101,6 +101,10 @@ span,
   font-weight: 700;
 }
 
+.order a{
+  color: rgb(150, 50, 200);
+}
+
 @media (min-width: 600px) {
   body {
     background-image: url(/images/pattern-background-desktop.svg);
